@@ -14,8 +14,10 @@ Original game by Matthew Smith. BBC Micro version by D.J.Coathupe.
 ![Manic Miner 2021 Screenshot 3](https://github.com/0xC0DE6502/manic-miner-2021-releases/blob/main/res/screenshot3.png?raw=true)
 
 ## Download
-* [Disc version (DFS)](https://github.com/0xC0DE6502/manic-miner-2021-releases/raw/main/ManicMiner2021-0.06b.ssd)
-* [Tape version (UEF)](https://github.com/0xC0DE6502/manic-miner-2021-releases/raw/main/ManicMiner2021-0.06b.uef)
+* [Disc version (DFS)] for a real Electron or Electrem (https://github.com/0xC0DE6502/manic-miner-2021-releases/raw/main/ManicMiner2021-0.06b.ssd)
+* [Tape version (UEF)] for a real Electron or Electrem (https://github.com/0xC0DE6502/manic-miner-2021-releases/raw/main/ManicMiner2021-0.06b.uef)
+* [Disc version (DFS)] for Elkulator (https://github.com/0xC0DE6502/manic-miner-2021-releases/raw/main/ManicMiner2021-0.06b-Elkulator.ssd)
+* [Tape version (UEF)] for Elkulator (https://github.com/0xC0DE6502/manic-miner-2021-releases/raw/main/ManicMiner2021-0.06b-Elkulator.uef)
 
 ## Controls
 
